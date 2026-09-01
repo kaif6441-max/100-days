@@ -18,11 +18,11 @@ I am solving DSA problems regularly using **Java** and documenting my solutions 
 | 8 | Generate Parentheses | #22 |
 | 9 | Pascal's Triangle | #118 |
 
-## 🛠️ Language
+# 🛠️ Language
 
 - Java
 
-## 🎯 Goal
+# 🎯 Goal
 
 - Solve DSA problems consistently
 - Improve problem-solving skills
@@ -30,7 +30,7 @@ I am solving DSA problems regularly using **Java** and documenting my solutions 
 - Prepare for coding interviews
 - Complete 100 days of DSA
 
-## 📈 Progress
+# 📈 Progress
 
 **Days Completed: 9 / 100**
 
