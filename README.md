@@ -4,7 +4,7 @@ This repository contains my **100 Days of Data Structures and Algorithms (DSA)**
 
 I am solving DSA problems regularly using **Java** and documenting my solutions to improve my problem-solving and coding skills.
 
-## 📚 Problems Solved
+# 📚 Problems Solved
 
 | Day | Problem | LeetCode |
 |---|---|---|
