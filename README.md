@@ -30,7 +30,7 @@ I am solving DSA problems regularly using **Java** and documenting my solutions 
 - Prepare for coding interviews
 - Complete 100 days of DSA
 
-# 📈 Progress
+## 📈 Progress
 
 **Days Completed: 9 / 100**
 
