@@ -7,7 +7,7 @@ I am solving DSA problems regularly using **Java** and documenting my solutions 
 # 📚 Problems Solved
 
 | Day | Problem | LeetCode |
-|---|---|---|
+|---|---|--|
 | 1 | Remove Element | #27 |
 | 2 | Length of Last Word | #58 |
 | 3 | Climbing Stairs | #70 |
